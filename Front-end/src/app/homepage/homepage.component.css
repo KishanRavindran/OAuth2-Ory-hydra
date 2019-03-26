@@ -1,0 +1,26 @@
+.geppetoimage {
+    align-items: center;
+    /* background: linear-gradient(to top right, #1f5679 10%, #eaf4ff 90%); */
+    display: flex;
+    /* flex-basis: 550px; */
+    justify-content: center;
+    height: 100%;
+}
+.btn{
+    /* align-items: center; */
+    /* background: linear-gradient(to top right, #1f5679 10%, #eaf4ff 90%); */
+    /* display: flex; */
+    /* flex-basis: 550px; */
+    text-align: right;
+    /* height: 100vh; */
+    padding-right: 7%;
+    padding-top: 1%;
+}
+.geppetoimage1 {
+    /* align-items: center; */
+    background: linear-gradient(to top right, #1f5679 10%, #eaf4ff 90%);
+    /* display: flex; */
+    flex-basis: 550px;
+    /* justify-content: center; */
+    height: 100vh;
+}

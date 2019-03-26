@@ -1,0 +1,14 @@
+.cardsize{
+    max-width: 18em;
+    text-align: center;
+    height: 16em;
+    left: 30em;
+    margin-top: 6em;
+    padding-left: 5em;
+    padding-right: 5em;
+    margin-bottom: 8em;
+    background: grey;
+}
+.cardcontent{
+    margin-top: 70px !important;
+}

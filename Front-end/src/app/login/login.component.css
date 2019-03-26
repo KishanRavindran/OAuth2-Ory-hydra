@@ -1,0 +1,22 @@
+.cardsize{
+    max-width: 21em;
+    text-align: center;
+    height: 30em;
+    left: 30em;
+    margin-top: 6em;
+    padding-left: 5em;
+    padding-right: 5em;
+    margin-bottom: 8em;
+    background: grey;
+}
+.name{
+    text-align: center;
+    padding-top: 5em !important;
+}
+.password{
+    text-align: center;
+}
+.loginname{
+    margin-top: 5em ;
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+<mat-card class="cardsize">
+  <mat-card-content class="cardcontent">
+    <mat-checkbox class="example-margin" (change)="openid($event,check)">openid</mat-checkbox>
+    <br>
+    <mat-checkbox class="example-margin" (change)="offline($event,check)">offline</mat-checkbox>
+  </mat-card-content>
+  <mat-card-actions>
+    <button mat-raised-button (click)='Consent()' color="primary">Allow Access!</button>
+  </mat-card-actions>
+</mat-card>
